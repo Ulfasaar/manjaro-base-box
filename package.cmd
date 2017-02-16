@@ -1,0 +1,1 @@
+del manjaro.box && vagrant package --output manjaro.box
